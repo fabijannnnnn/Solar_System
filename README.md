@@ -1,21 +1,23 @@
 # Solar System Simulation with Pygame
 
-This project simulates the movement of planets in the solar system using Pygame and physics principles.
-
-## Features
-
-- Simulates planetary orbits and movements based on gravitational forces.
-- Interactive visualization with adjustable window size.
-- Realistic scaling and positioning of planets.
+This project simulates the dynamic movement of scaled planets 
+within our solar system, utilizing Pygame and realistic physical 
+principles.
 
 ## Installation
 
-1. Clone the repository:
-2. Install Pygame (if not yet installed):
-3. Run the simulation:
+1. `git clone https://github.com/fabijannnnnn/Solar_System.git` 
+2. `pip install pygame`
+3. `python main.py`
 
 ## Usage
 
 - Upon running, the simulation starts with the sun and planets already initialized.
 - Use the resizable window to zoom in/out or adjust the view.
 - Close the window to exit the simulation.
+
+## Features
+
+- Simulates planetary orbits and movements based on gravitational forces.
+- Interactive visualization with adjustable window size.
+- Realistic scaling and positioning of planets.
