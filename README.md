@@ -1,4 +1,4 @@
-# Solar System Simulation with Pygame
+# Solar System Simulation
 
 This project simulates the dynamic movement of scaled planets 
 within our solar system, utilizing Pygame and realistic physical 
